@@ -1,4 +1,4 @@
-Tugas 1 Grafika Komputer - Lighting
+LIGHTING
 
 Pada tugas kali ini terdapat 3 jenis lighting yang digunakan, 3 jenis lighting tersebut memiliki contoh code yang hampir sama, maka dari itu readme kali ini akan membahas 1 jenis lighting saja yakni directional lighting.
 
